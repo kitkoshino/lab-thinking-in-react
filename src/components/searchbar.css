@@ -1,0 +1,19 @@
+.search-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 20px;
+  align-items: center;
+}
+
+.search-container input{
+  width: 800px;
+}
+
+.stock-container {
+  display: flex;
+}
+
+.stock-container input {
+  width: auto;
+}
